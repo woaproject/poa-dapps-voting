@@ -1,4 +1,4 @@
-# POA Network Governance Dapp
+# WOA Network Governance Dapp
 
 ## Supported browsers
 
